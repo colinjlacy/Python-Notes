@@ -28,3 +28,11 @@ The interactive prompt runs code immediately as it's entered, which means it's a
 	'Spam!Spam!Spam!Spam!Spam!Spam!Spam!Spam!'
 
 Who knew?
+
+Important things to remember about the interactive prompt:
+* Python commands only
+* `print` statements aren't necessary - only in files
+* Don't indent on a new line as it could throw a syntax error
+* Be aware of prompt changes when working with compound statements
+* Compound statements are terminated with a blank line (so press `return` twice)
+* The prompt runs one statement at a time

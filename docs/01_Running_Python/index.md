@@ -36,3 +36,5 @@ Important things to remember about the interactive prompt:
 * Be aware of prompt changes when working with compound statements
 * Compound statements are terminated with a blank line (so press `return` twice)
 * The prompt runs one statement at a time
+
+Multi-line statements operate a bit differently when entered into the interactive prompt.  They require a blank like before they can be executed - that is to say, hitting `return` twice.  Also keep in mind that the interactive prompt only runs one statement at a time, meaning that you can't sneak a second statement in between `return` keystrokes.

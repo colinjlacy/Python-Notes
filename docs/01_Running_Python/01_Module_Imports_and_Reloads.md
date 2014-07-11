@@ -48,3 +48,22 @@ An alternative is to **copy** (not import) an attribute from a module by passing
 
 Notice that it has become a localized variable once it is copied, and doesn't have to be expressed as an attribute of `myfile`.
 
+Regardless of what's used, the imported statements are executed, and the importing file gains access to the top-level attributes of the imported module.  One way to think of module-construction is by looking at each variable, function, and class definition as an attribute written to be accessed by other Python files, as well as possibly by the parent module.  Each piece should be written to be reusable software, including the module in its entirety.  For example, let's look at the following:
+
+	# calling this file threenames.py
+
+	a = "dead"
+	b = "parrot"
+	c = "sketch"
+	print(a, b, c)
+
+If I pull this module using `from`, I can access individual attributes:
+
+	>>> a
+	'dead'
+	>>> b, c
+	('parrot', 'sketch')
+
+If I `import` instead, I can not only access those attributes, but the print file at the bottom is also run.  Simple example though it might be, this demonstrates how a module can have a function fire when it's imported, potentially taking care of some heavy lifting before I move on to work with its attributes.
+
+

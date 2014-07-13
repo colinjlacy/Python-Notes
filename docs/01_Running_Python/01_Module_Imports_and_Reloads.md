@@ -64,6 +64,11 @@ If I pull this module using `from`, I can access individual attributes:
 	>>> b, c
 	('parrot', 'sketch')
 
-If I `import` instead, I can not only access those attributes, but the print file at the bottom is also run.  Simple example though it might be, this demonstrates how a module can have a function fire when it's imported, potentially taking care of some heavy lifting before I move on to work with its attributes.
+If I `import` instead, I can not only access those attributes, but the print function at the bottom is also run.  Simple example though it might be, this demonstrates how a module can have a function fire when it's imported, potentially taking care of some heavy lifting before I move on to work with its attributes.
+
+When you need to see a list of attributes within a module, you can use the `dir()` function.  That will print out a list of all the attributes, including the built-in attributes, in a module.
+
+	>>> dir(threenames)
+	['__builtins__', '__doc__', '__file__', '__name__', '__package__', 'a', 'b', 'c']
 
 

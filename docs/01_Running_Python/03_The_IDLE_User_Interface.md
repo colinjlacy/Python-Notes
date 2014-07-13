@@ -1,0 +1,7 @@
+IDLE is a GUI that comes pre-packaged with Python, and lets you run and test Python scripts quickly and easily.  Opening IDLE brings you directly to a Python shell, from which any code that is entered is executed immediately.  Similar to running Python in the command line.
+
+By choosing to open a `.py` file, you then have access to text-edit any previous file written, or write a new file as well.  The benefit here is that IDLE uses syntax color-coding to indicate what's going on in your code.  There's also hinting to help with function calls, giving hints at what type of arguments can be passed.
+
+In order to run a module, navigate to the module's open window, and click on Run->Run Module in the program's navigation.  The result of running the module will show up in the original Pythong shell window that was opened when IDLE was first initialized.  If that window is closed before the module is run, a new one will open and show the results of the module being run.
+
+Another handy feature is the object browser, which allows importing and executing modules by using a Finder window to nagivate to the file.  That makes it much easier to enter the search path to the module than having to type it out by hand.

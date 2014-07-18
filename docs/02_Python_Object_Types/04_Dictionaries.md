@@ -55,3 +55,55 @@ Notice that even though we're working with a dictionary on the parent level, we 
 
 ###Sorting Keys for Loops###
 
+One of the useful type-specific operations that come with dictionaries is the ability to return only the keys, which is handy when we want to sort a dicitonary into a particular order.  As was said above, dictionaries don't keep an index, since they're mappings, not sequences.  Here's how this is done.
+
+	>>> D = {'a': 1, 'b': 2, 'c': 3}
+
+	>>> Ks = list(D.keys())
+	>>> Ks
+	['a', 'c', 'b']     # remember, no index, so not necessarily stored in the order we defined
+
+	>>> Ks.sort()
+	>>> Ks
+	['a', 'b', 'c']     # a list, which can be sorted, sorted alphabetically
+
+	>>> for key in Ks:
+			print(key, '=>', D[key])        # note that this has to be indented, otherwise Python will throw an error
+
+	a => 1
+	b => 2
+	c => 3
+
+That's one way to do it.  Another way is to use the `sorted` built-in function, which returns the result of calling the object, and sorts a variety of object types, in this case the keys of the dictionary.
+
+	>>> for key in sorted(D)
+			print(key, '=>', D[key])
+
+	a => 1
+    b => 2
+    c => 3
+
+###The For Loop and While Loop###
+
+The two examples above were a nice way to introduce the `for` loop, which iterates through an object and returns the values stored therein.  `for` loops access the current data value via a user-defined variable - in this case `key` - and use that to return or manipulate the current data in the loop.  It should be noted that both `for` and `while` are actually sequence operations, although they also operate on data types that are not sequences as well.  They comprise the most common tasks used to do repetitive work through types of data that contain multiple values.  Here is `for` operating on the characters in a string:
+
+	>>> for c in 'spam':
+			print(c.upper())
+
+	'S'
+	'P'
+	'A'
+	'M'
+
+The `while` loop is a bit more general, and isn't necessarily tied to any restrictions set by the data being operated on:
+
+	>>> x = 4
+	>>> while x > 0:
+			print('spam!' * x)
+
+	spam!spam!spam!spam!
+    spam!spam!spam!
+    spam!spam!
+    spam!
+
+##Iteration and Optimization##

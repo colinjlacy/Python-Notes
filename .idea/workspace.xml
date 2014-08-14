@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f31c8d2-fd8b-4392-9981-32e94f62c105" name="Default" comment="first commit&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/03_Numeric_Types/00_Numeric_Literals.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/03_Numeric_Types/01_Python_Expression_Operators.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/02_Python_Object_Types/07_Other_Core_Types.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/03_Numeric_Types/02_Numbers_in_Action.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/03_Numeric_Types/03_Further_Reading.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -31,85 +30,109 @@
     <leaf>
       <file leaf-file-name="04_Dictionaries.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/02_Python_Object_Types/04_Dictionaries.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state line="161" column="5" selection-start="7035" selection-end="7035" vertical-scroll-proportion="0.0" vertical-offset="2415" max-vertical-offset="2505">
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
         </entry>
       </file>
       <file leaf-file-name="05_Tuples.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/02_Python_Object_Types/05_Tuples.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state line="38" column="395" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="660">
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="42" selection-start="71" selection-end="71" vertical-scroll-proportion="0.04470939" vertical-offset="0" max-vertical-offset="671">
-              <folding />
-            </state>
-          </provider>
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="29" selection-start="58" selection-end="58" vertical-scroll-proportion="0.035587188" vertical-offset="0" max-vertical-offset="843">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="07_Other_Core_Types.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/02_Python_Object_Types/07_Other_Core_Types.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="11" selection-start="2110" selection-end="2110" vertical-scroll-proportion="-20.962963" vertical-offset="529" max-vertical-offset="1230">
-              <folding />
-            </state>
-          </provider>
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="73" column="11" selection-start="2110" selection-end="2110" vertical-scroll-proportion="0.0" vertical-offset="1095" max-vertical-offset="1185">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="00_Numeric_Literals.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/03_Numeric_Types/00_Numeric_Literals.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="2150" selection-end="2150" vertical-scroll-proportion="-13.333333" vertical-offset="0" max-vertical-offset="585">
-              <folding />
-            </state>
-          </provider>
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="0" selection-start="2150" selection-end="2150" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="450">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="01_Python_Expression_Operators.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/03_Numeric_Types/01_Python_Expression_Operators.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="2000" selection-end="2000" vertical-scroll-proportion="-16.666666" vertical-offset="0" max-vertical-offset="645">
+            <state line="30" column="0" selection-start="2000" selection-end="2000" vertical-scroll-proportion="-16.666666" vertical-offset="0" max-vertical-offset="615">
               <folding />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_Numbers_in_Action.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/03_Numeric_Types/02_Numbers_in_Action.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="312" selection-start="1829" selection-end="1829" vertical-scroll-proportion="-26.296297" vertical-offset="100" max-vertical-offset="930">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_Further_Reading.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/03_Numeric_Types/03_Further_Reading.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="19" selection-start="535" selection-end="535" vertical-scroll-proportion="-4.4444447" vertical-offset="0" max-vertical-offset="225">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="06_Files.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/02_Python_Object_Types/06_Files.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state line="21" column="9" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="405">
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
           </provider>
         </entry>
       </file>
@@ -150,15 +173,16 @@
         <option value="$PROJECT_DIR$/docs/02_Python_Object_Types/07_Other_Core_Types.md" />
         <option value="$PROJECT_DIR$/docs/03_Numeric_Types/00_Numeric_Literals.md" />
         <option value="$PROJECT_DIR$/docs/03_Numeric_Types/01_Python_Expression_Operators.md" />
+        <option value="$PROJECT_DIR$/docs/03_Numeric_Types/02_Numbers_in_Action.md" />
+        <option value="$PROJECT_DIR$/docs/03_Numeric_Types/03_Further_Reading.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="16" />
-    <option name="y" value="115" />
-    <option name="width" value="1440" />
-    <option name="height" value="816" />
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="988" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -293,14 +317,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -311,15 +327,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -358,7 +382,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="16" y="115" width="1440" height="816" extended-state="0" />
+    <frame x="0" y="22" width="1920" height="988" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -367,7 +391,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13590844" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10117146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -375,12 +399,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995495" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995495" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Runner" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -400,45 +424,29 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="35" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120" />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="281" selection-start="3723" selection-end="3723" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="630" />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/index.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="348" selection-start="2382" selection-end="2382" vertical-scroll-proportion="0.0" vertical-offset="89" max-vertical-offset="675" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/00_System_Command_Lines_and_Files.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/00_System_Command_Lines_and_Files.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="48" column="0" selection-start="2539" selection-end="2539" vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="810" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/01_Module_Imports_and_Reloads.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/01_Module_Imports_and_Reloads.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="60" column="0" selection-start="4381" selection-end="4381" vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="1125" />
       </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -451,44 +459,44 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="35" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="281" selection-start="3723" selection-end="3723" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="630" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/index.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/index.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="348" selection-start="2382" selection-end="2382" vertical-scroll-proportion="0.0" vertical-offset="89" max-vertical-offset="675" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/00_System_Command_Lines_and_Files.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/00_System_Command_Lines_and_Files.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="48" column="0" selection-start="2539" selection-end="2539" vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="810" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/01_Module_Imports_and_Reloads.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/01_Module_Imports_and_Reloads.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="68" column="0" selection-start="4744" selection-end="4744" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1125" />
       </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -501,43 +509,77 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="35" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="281" selection-start="3723" selection-end="3723" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="630" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/index.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/index.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="348" selection-start="2382" selection-end="2382" vertical-scroll-proportion="0.0" vertical-offset="89" max-vertical-offset="675" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/00_System_Command_Lines_and_Files.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/00_System_Command_Lines_and_Files.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="48" column="0" selection-start="2539" selection-end="2539" vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="810" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/01_Module_Imports_and_Reloads.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/01_Module_Imports_and_Reloads.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="50" column="0" selection-start="3718" selection-end="3718" vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="840" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="21" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="19" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="281" selection-start="3723" selection-end="3723" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/index.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="9" selection-start="1643" selection-end="1643" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="645" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
@@ -551,61 +593,27 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="281" selection-start="3723" selection-end="3723" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="630" />
       </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/index.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="9" selection-start="1643" selection-end="1643" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="645" />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="21" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="19" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="330" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120" />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="281" selection-start="3723" selection-end="3723" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="630" />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="9" selection-start="1643" selection-end="1643" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="645" />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
@@ -619,11 +627,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
-      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
@@ -647,137 +655,157 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/00_System_Command_Lines_and_Files.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="48" column="0" selection-start="2539" selection-end="2539" vertical-scroll-proportion="0.9583333" vertical-offset="151" max-vertical-offset="885" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/index.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/index.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="348" selection-start="2382" selection-end="2382" vertical-scroll-proportion="1.0252976" vertical-offset="16" max-vertical-offset="795" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/00_Getting_Started.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="281" selection-start="3723" selection-end="3723" vertical-scroll-proportion="1.0104166" vertical-offset="116" max-vertical-offset="885" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/03_The_IDLE_User_Interface.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/03_The_IDLE_User_Interface.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="241" selection-start="1218" selection-end="1218" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="180" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/02_Running_with_exec().md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/02_Running_with_exec().md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="0" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/01_Module_Imports_and_Reloads.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/01_Running_Python/01_Module_Imports_and_Reloads.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="72" column="0" selection-start="5045" selection-end="5045" vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="1200" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/02_Python_Object_Types/00_Overview.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/02_Python_Object_Types/00_Overview.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="407" selection-start="2041" selection-end="2041" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="540" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/02_Python_Object_Types/01_Numbers.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/02_Python_Object_Types/01_Numbers.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="923" selection-end="923" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="375" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/02_Python_Object_Types/04_Dictionaries.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/02_Python_Object_Types/04_Dictionaries.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="161" column="5" selection-start="7035" selection-end="7035" vertical-scroll-proportion="0.0" vertical-offset="2415" max-vertical-offset="2505">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/02_Python_Object_Types/06_Files.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/02_Python_Object_Types/06_Files.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="9" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="405">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/02_Python_Object_Types/05_Tuples.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/02_Python_Object_Types/05_Tuples.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="395" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="660">
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/02_Python_Object_Types/07_Other_Core_Types.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="11" selection-start="2110" selection-end="2110" vertical-scroll-proportion="-20.962963" vertical-offset="529" max-vertical-offset="1230">
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="11" selection-start="2110" selection-end="2110" vertical-scroll-proportion="0.0" vertical-offset="1095" max-vertical-offset="1185">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/03_Numeric_Types/00_Numeric_Literals.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="2150" selection-end="2150" vertical-scroll-proportion="-13.333333" vertical-offset="0" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="2150" selection-end="2150" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="450">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/03_Numeric_Types/01_Python_Expression_Operators.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="2000" selection-end="2000" vertical-scroll-proportion="-16.666666" vertical-offset="0" max-vertical-offset="645">
+        <state line="30" column="0" selection-start="2000" selection-end="2000" vertical-scroll-proportion="-16.666666" vertical-offset="0" max-vertical-offset="615">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/03_Numeric_Types/02_Numbers_in_Action.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="312" selection-start="1829" selection-end="1829" vertical-scroll-proportion="-26.296297" vertical-offset="100" max-vertical-offset="930">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/03_Numeric_Types/03_Further_Reading.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="19" selection-start="535" selection-end="535" vertical-scroll-proportion="-4.4444447" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="42" selection-start="71" selection-end="71" vertical-scroll-proportion="0.04470939" vertical-offset="0" max-vertical-offset="671">
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="29" selection-start="58" selection-end="58" vertical-scroll-proportion="0.035587188" vertical-offset="0" max-vertical-offset="843">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
